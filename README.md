@@ -1,5 +1,5 @@
 # アルゴリズム 
-## Chapter1
+## [Chapter1](Chapter1)
 ### 1-1 [入力、出力](Chapter1/Chapter1-1)
 ### 1-2 [変数](Chapter1/Chapter1-2)
 ### 1-3 [条件式](Chapter1/Chapter1-3)
@@ -8,7 +8,7 @@
 ### 1-6 [配列](Chapter1/Chapter1-6)
 ### [extra random](Chapter1/ExtraChapter1-1)
 
-## Chapter2
+## [Chapter2](Chapter2)
 ### 2-1 [平均値](Chapter2/Chapter2-1)
 ### 2-2 [1からnまで足し算](Chapter2/Chapter2-2)
 ### 2-3 [九九の式を出力](Chapter2/Chapter2-3)

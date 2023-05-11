@@ -15,4 +15,4 @@
 ### 2-4 [素数を求める](Chapter2/Chapter2-4)
 ### 2-5 [nの会場(n!)を求める](Chapter2/Chapter2-5)
 ### [extra エラトスネスの篩](Chapter2/ExtraChapter2)
-
+### [練習問題](Chapter2/practice)

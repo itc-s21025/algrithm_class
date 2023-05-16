@@ -1,8 +1,6 @@
-def fun1(n):
-    two = 2 ** n
-    three = 3 ** n
+for i in range(1, 6):
+    a = 3**i
+    b = 2**i
+    print("３の{},2の{}の差は{}".format(i, i, a-b))
 
-    result = three - two
-    return result
-n = int(input())
-print(fun1(n))
+

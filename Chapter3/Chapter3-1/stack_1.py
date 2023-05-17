@@ -16,6 +16,7 @@ def pop():
     global sp
     if sp > 0:
         sp = sp - 1
+        print("データ", stack[sp], "を取り出しました")
         return stack[sp]
     else:
         print("取り出すデータが存在しません")
@@ -26,7 +27,7 @@ def main():
     for i in range(2):
         push(i)
     pop()
-    for i in range(2, 5):
+    for i in range(1, 4):
         push(i)
 main()
 

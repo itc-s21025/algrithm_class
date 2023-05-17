@@ -21,8 +21,12 @@ def pop():
         print("取り出すデータが存在しません")
         return None
 
-for i in range(6):
-    push(i)
-for i in range(6):
-    d = pop()
-    print("取り出したデータ", d)
+def main():
+    global sp
+    for i in range(2):
+        push(i)
+    pop()
+    for i in range(2, 5):
+        push(i)
+main()
+

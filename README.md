@@ -16,3 +16,12 @@
 ### 2-5 [nの会場(n!)を求める](Chapter2/Chapter2-5)
 ### [extra エラトスネスの篩](Chapter2/ExtraChapter2)
 ### [練習問題](Chapter2/practice)
+
+## [Chapter3](Chapter3)
+### [3-1](Chapter3/Chapter3-1)
+### [3-2](Chapter3/Chapter3-2)
+### [3-4](Chapter3/Chapter3-4)
+
+## [Chapter4](Chapter4)
+### [Chapter4-2](Chapter4/Chapter4-2)
+### [Extra_Lesson](Chapter4/Extra_Lesson)

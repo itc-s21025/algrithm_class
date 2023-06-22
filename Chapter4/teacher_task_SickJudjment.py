@@ -1,3 +1,5 @@
+# 　喜友名さんのコードを参考にかきました
+
 LEFT = 0
 RIGHT = 1
 DATA = 2
@@ -26,5 +28,6 @@ def sickjudjment(result=0):
             return a()
 
     return node[result][DATA]
-print(sickjudjment())
 
+
+print(sickjudjment())

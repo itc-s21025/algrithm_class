@@ -25,7 +25,7 @@ def sickjudjment(result=0):
             result = node[result][LEFT]
         else:
             print("y or n で答えてください")
-            return a()
+            return sickjudjment()
 
     return node[result][DATA]
 

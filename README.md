@@ -25,3 +25,15 @@
 ## [Chapter4](Chapter4)
 ### [Chapter4-2](Chapter4/Chapter4-2)
 ### [Extra_Lesson](Chapter4/Extra_Lesson)
+### [Chapter4　課題](Chapter4/teacher_task_SickJudjment.py)
+
+## [Chapter5](Chapter5)
+### [5-1](Chapter5/Chapter5-1)
+### [5-2](Chapter5/Chapter5-2)
+### [5-3](Chapter5/Chapter5-3)
+### [5-4](Chapter5/Chapter5-4)
+### [5-5](Chapter5/Chapter5-5)
+### [5-6](Chapter5/Chapter5-6)
+### [Chapter5 課題](Chapter5/teacher_task_bubble.py)
+
+## [Chapter7](Chapter7)
